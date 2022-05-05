@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+13bb08a7d5e296b5bb2921710f21a661	CCA Street Network	area	full	continuous	100000	100000	100000	0.15567779682762634	1.49027238256	0.00155037740275	-1.41010870829	2.33926379231	-6058.18081489	0.0	0.131771985177	0.116467038589

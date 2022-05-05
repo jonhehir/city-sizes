@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+88ba4799d9aac415826804596afcd1a1	Census CBSA	area	full	continuous	933	933	933	282.970241	1.41694577683	0.0136501919163	8.03649810657	0.860316935262	-579.107724472	8.50368049468e-194	0.369712820534	0.0763312707813

@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+c146fb5177561cf9d72ab7bab50b6a35	CCA Raster	jobs	full	continuous	3730	3730	3661	0.001263422129772765	1.07577434825	0.00125234026791	6.52314694406	2.38135829523	-4735.08578641	0.0	0.455900257037	0.0541490746104

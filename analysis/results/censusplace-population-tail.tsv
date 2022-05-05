@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+b72902f6d7cf9b6c0693a3f5a5b8aec4	Census Place	population	tail	discrete	28755	28755	706	53743.0	2.44134960791	0.0542459080875	-457.147146074	18.0490650942	0.00132695130992	0.970995003884	0.0192743917521	0.0194699324175

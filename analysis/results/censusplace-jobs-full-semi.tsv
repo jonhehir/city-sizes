@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+b48970be3a33ff2f45537a3abb507d86	Census Place	jobs	full-semi	discrete	28755	23666	23666	10.0	1.2601127165	0.00169082692349	5.7280278938	2.41144820232	-5559.27453892	0.0	0.190602538806	0.0127801566061

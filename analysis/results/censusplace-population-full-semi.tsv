@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+c635e65b61bb3892c3ae180e7a62e9f0	Census Place	population	full-semi	discrete	28755	28677	28677	10.0	1.20532336151	0.00121247141253	7.0999158898	1.82780940516	-16653.8148182	0.0	0.322536439057	0.0271751537825

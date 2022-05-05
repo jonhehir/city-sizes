@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+f3f2651985a99da65c9aa8a0c1962022	Census CBSA, 2000	population	full	discrete	274	274	274	57813.0	1.56253960344	0.0339842602808	12.279487943	1.44134281062	-37.4933380839	1.22559982556e-08	0.20563863819	0.0737770818314

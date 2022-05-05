@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+79cdaba869020897a4c83885abd806ca	CCA Block	jobs	tail	discrete	23558	23558	1601	3548.0	1.80334221113	0.0200772821076	-33.8006225935	7.43454954707	-0.534689150575	0.536992305118	0.0108920284479	0.016292482683

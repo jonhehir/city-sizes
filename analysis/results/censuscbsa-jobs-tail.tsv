@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+02ff1c4fa7e55abcde61163488f958c9	Census CBSA	jobs	tail	discrete	933	933	447	29748.0	1.80781835674	0.0382084971717	4.9912167381	3.05439316228	-3.15068083501	0.0999598169402	0.0366214264764	0.0406907574691

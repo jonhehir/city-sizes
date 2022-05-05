@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+f42d8194b213fcb82082bd95cac51702	CCA Tract, 1990/2000	population	tail	discrete	23499	23499	727	24210.0	1.9379471847	0.0347865355478	-1010.02257569	33.0129372095	0.00771894856157	0.724755370272	0.0223300671066	0.0225209434455

@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+d5292a8a6000a6c01cbed0f58d8594af	CCA Street Network	jobs	full	continuous	100000	100000	93474	0.022222222222222223	1.14662506714	0.000479581928933	3.00567985977	2.2139954216	-66607.8307072	0.0	0.367921023692	0.0415390534945

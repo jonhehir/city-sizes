@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+161c8526ea1cef1fe85a61fcb4e97374	CCA Block	population	full	discrete	23558	23558	23558	50.0	1.48436261368	0.00315574138518	2.03802733801	3.30692125684	-593.41124587	5.06801949266e-79	0.0590267988157	0.00505193731824

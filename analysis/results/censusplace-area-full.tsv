@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+a46c88cd4db2fe2091254ebbb4fb8de9	Census Place	area	full	continuous	28755	28755	28755	0.013088	1.16844789879	0.000993365132488	1.60036841936	1.43618723006	-28765.4973076	0.0	0.410925925762	0.0116985299473
