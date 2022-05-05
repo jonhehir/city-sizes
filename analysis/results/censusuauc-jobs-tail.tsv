@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+e17cb3afdbe5be30d2f794fc104c44ea	Census UA/UC	jobs	tail	discrete	3535	3535	1851	2827.0	1.69151500947	0.0160730539196	-4.06525174804	4.61093805621	-5.696865698	0.0346632333672	0.0251071383041	0.0250846422943

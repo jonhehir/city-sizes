@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+0a4fab21cf25a3f3a7f88d1375c2c3f9	CCA Tract	area	tail	continuous	25646	25646	5260	311.096824119	2.17854682865	0.016250022681	-1.16034698019	2.68198208907	-16.6672140902	0.000151646452097	0.0180008677842	0.0199567438123

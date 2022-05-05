@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+bfb00eea98a61040cd6bc86d04f8cf88	Census UA/UC	population	tail	discrete	3535	3535	3130	3067.0	1.70022218982	0.0125159465709	-16.4903411638	6.23867423965	-3.25789510219	0.107361327014	0.0143175435764	0.0156175335165

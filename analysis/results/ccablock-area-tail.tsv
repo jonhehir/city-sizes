@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+9ee04d3beaa38fa4dd5deeeca2d9ee19	CCA Block	area	tail	continuous	23558	23558	1952	3.181377	1.84352363236	0.0190922603402	-104.605275065	11.3209306557	-0.109554614298	0.773006465068	0.0150175748507	0.0162135205519

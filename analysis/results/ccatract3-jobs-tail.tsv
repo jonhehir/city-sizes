@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+1a84e26fe0fb9b6052cd7f40e2fa0b6e	CCA Tract (3+)	jobs	tail	discrete	1380	1380	408	22416.0	1.82953913339	0.0410683067364	-2.64491600355	4.24217685769	-0.900957641201	0.374588599404	0.0261234019058	0.0239384802765

@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+f70260fadea0501ccb60fbe06b89f64c	CCA Raster	population	tail	continuous	3730	3730	911	8013.31415946	1.7205638389	0.0238733450455	-18.0319078569	6.41892222901	-0.7736417844	0.432808283132	0.0178667795675	0.021553426843

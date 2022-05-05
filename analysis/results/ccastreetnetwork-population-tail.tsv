@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+519e6cb6ac0e3dc3084a138be9caf5b0	CCA Street Network	population	tail	continuous	100000	100000	17885	577.0	1.82127326423	0.00614105819256	-324.907035708	20.1571271937	-0.116271334449	0.796135685145	0.00523888911645	0.00587159401571

@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+417242f89478f0b328b1cf9837bf65ab	Census Place	jobs	tail	discrete	28755	28755	522	33820.0	2.33552556892	0.0584543661494	-26.9416192105	5.3928866117	-0.0863704730501	0.79683473067	0.0255634035392	0.0298156661159

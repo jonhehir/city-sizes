@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+0455c2cf45624c807a91f0c50b226ef1	CCA Tract	jobs	full-semi	discrete	25646	25508	25508	10.0	1.22162879786	0.00138767571067	6.76136765138	1.35043228521	-20156.4488692	0.0	0.372091346535	0.0289032548914

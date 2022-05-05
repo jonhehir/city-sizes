@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+59032a12bfb7358aae7feedfa436b6d4	Census UA/UC	jobs	full-semi	discrete	3535	3525	3525	10.0	1.16762644284	0.0028233386172	8.21551581997	1.69797681105	-2958.25794553	0.0	0.408711607363	0.0760239888259

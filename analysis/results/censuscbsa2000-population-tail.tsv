@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+ec4fbd9b5c0c2f18c9e5421369ae9749	Census CBSA, 2000	population	tail	discrete	274	274	54	921106.0	2.18290175793	0.160972540154	10.3947280666	2.02544481142	-0.41715620926	0.543891596932	0.0635057914345	0.0576403971639

@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+be6414906a5a2a53569ad2ff0c30dbf5	CCA Raster	area	full	continuous	3730	3730	3730	0.5651899270026814	1.66350188692	0.0108639497054	-31.2721719336	7.11656279123	-2.94117219281	0.159724170261	0.145947521597	0.151705824275

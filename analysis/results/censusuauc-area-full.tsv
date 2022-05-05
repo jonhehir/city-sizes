@@ -1,0 +1,2 @@
+batchid	dataset	column	fitpart	continuity	n_original	n	n_tail	x_min	alpha	plsigma	mu	lnsigma	lratio	p_lratio	ks_pl	ks_ln
+d23127a05edf4c1910b0c54b2c679f6c	Census UA/UC	area	full	continuous	3535	3535	3535	0.741348	1.31560766069	0.00530826782956	2.82457911714	1.38830269391	-1607.26958653	0.0	0.359570008197	0.109813713586
