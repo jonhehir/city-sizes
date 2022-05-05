@@ -1,4 +1,4 @@
-*This is a dump of the code accompanying a paper that analyzes the distribution of US city sizes over various city definitions. This code was originally written around 2017--2018.*
+*This is a dump of the code accompanying a paper that analyzes the distribution of US city sizes over various city definitions. This code was originally written around 2017-2018 in collaboration with [Shiguo Jiang](https://www.albany.edu/spatial/jiang/) at the University at Albany, SUNY.*
 
 # Background
 
